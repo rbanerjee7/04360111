@@ -1,10 +1,8 @@
-Packages required:
+Packages :
 pip install torch==1.11.0
 pip install pennylane==0.29.1
 pip install tensorflow
 pip install scikit-learn
-
-*The data files are already in respective folder. We can directly run any file.
 
 Overall we have 4 folders:
 
@@ -14,7 +12,6 @@ This folder has two files used to describe Section III ('Data Preperation') of o
 Data_processing.ipynb : This file is used to process the input data from "Forecasting FTSE100_index" and convert it to 'Processed data'. The "Forecasting FTSE100_index" contain data from 9th Sep 2011 till 1st Match 2024.
 
 Feature_importance : This file is used to measure the feature importance of different features.
-
 
 
 
@@ -31,9 +28,7 @@ LSTM_prediction(March prediction): This file is to anaylze the performance of LS
 
 
 
-
-
-.........Comparison_classical_quantum.........
+.........quantum_method.........
 
 This folder has files discussing Section V('Quantum approach') of our report.
 The data used is from Aug 2013 till 1st March 2024.
@@ -48,10 +43,10 @@ Qlstm_NO-DRC: This file contain quantum solution for Quantum LSTM using NO-DRC.
 
 QNN: This file contain quantum solution for proposed Quantum Neural Network.
 
+Comparison_plot: This file contains comparison plot between classical and quantum
 
 
-
-..........Quantum_march_prediction.............
+..........Final_prediction.............
 
 This folder has files discussing Section VI('Prediction') of our report.
 
