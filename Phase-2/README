@@ -28,7 +28,7 @@ LSTM_prediction(March prediction): This file is to anaylze the performance of LS
 
 
 
-.........Comparison_classical_quantum.........
+.........quantum_method.........
 
 This folder has files discussing Section V('Quantum approach') of our report.
 The data used is from Aug 2013 till 1st March 2024.
@@ -43,10 +43,10 @@ Qlstm_NO-DRC: This file contain quantum solution for Quantum LSTM using NO-DRC.
 
 QNN: This file contain quantum solution for proposed Quantum Neural Network.
 
+Comparison_plot: This file contains comparison plot between classical and quantum
 
 
-
-..........Quantum_march_prediction.............
+..........Final_prediction.............
 
 This folder has files discussing Section VI('Prediction') of our report.
 
