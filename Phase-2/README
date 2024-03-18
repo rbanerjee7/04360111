@@ -55,3 +55,5 @@ Classical_LSTM_predict.ipynb: This file contain classical LSTM prediction from 8
 Proposed_ANN_predict.ipynb: This file contain classical proposed ANN prediction from 8th to 15th March 2024.
 
 Qlstm_DRC_predict.ipynb: This file contain Quantum LSTM DRC solution from 8th to 15th March 2024.
+
+Proposed_QNN_predict.ipynb: This file contain proposed quantum ANN prediction from 8th to 15th March 2024.
