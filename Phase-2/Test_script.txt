@@ -15,9 +15,6 @@ Data_processing.ipynb : This file is used to process the input data from "Foreca
 
 Feature_importance : This file is used to measure the feature importance of different features.
 
-
-
-
 ........Classical..........
 This folder has files discussing Section Section IV('Classical Approach') of our report. The 'Processed data' contain data from 9th Sep 2011 till 1st Match 2024.
 
@@ -29,11 +26,7 @@ Proposed_ANN_prediction(March prediction): This file is to anaylze the performan
 
 LSTM_prediction(March prediction): This file is to anaylze the performance of LSTM prediction
 
-
-
-
-
-.........Comparison_classical_quantum.........
+.........Quantum method.........
 
 This folder has files discussing Section V('Quantum approach') of our report.
 The data used is from Aug 2013 till 1st March 2024.
@@ -48,10 +41,7 @@ Qlstm_NO-DRC: This file contain quantum solution for Quantum LSTM using NO-DRC.
 
 QNN: This file contain quantum solution for proposed Quantum Neural Network.
 
-
-
-
-..........Quantum_march_prediction.............
+..........Final Prediction............
 
 This folder has files discussing Section VI('Prediction') of our report.
 
